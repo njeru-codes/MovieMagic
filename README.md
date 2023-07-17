@@ -1,2 +1,4 @@
 # MovieMagic
-GenesisAI: A Face Image Generation GAN Experience the power of GANs with GenesisAI. This model generates realistic and captivating face images, pushing the boundaries of artificial creativity. Join us in exploring the fascinating world of computer-generated faces.
+## MovieMagic: Personalized Movie Recommendation System
+
+Welcome to MovieMagic, an intelligent movie recommendation system designed to curate personalized movie suggestions just for you. Powered by cutting-edge collaborative filtering and content-based approaches, MovieMagic analyzes your unique preferences to deliver a handpicked selection of movies that align with your taste.
